@@ -1,0 +1,12 @@
+Animals:hamster,kitten,parrot,chicken,rabbit,mouse,elephant,crocodile,penguin,sparrow,flamingo,monkey,panther,giraffe,chameleon
+Countries:Sweden,Ecuador,Russia,Denmark,Argentina,Austria,Switzerland,Turkey,Pakistan,Portugal,Slovenia,Netherlands,Brazil,Spain,France,Montenegro
+Sports:hockey,gymnastics,swimming,trampolining,motocross,powerlifting,snowboarding,basketball,volleyball,bodybuilding,skateboarding,handball,running,curling
+Travel:excursion,backpack,baggage,mountains,swimsuit,tropics,sightseeing,vacation,reservation,destination,cruise,souvenir,suitcase,highway,sunscreen
+Nature:thunderstorm,seasons,vegetation,sinkhole,wetland,freeze,sand,earthquake,freshwater,typhoon,constellation,wildfire,climate,atmosphere
+Art:portray,collage,realism,futurism,design,perspective,engraving,calligraphy,mosaic,composition,exhibit,sketchbook,color,canvas
+Family:brother,sister,couple,daughter,grandfather,grandmother,groom,mother,father,bride,uncle,aunt
+Beverages:champagne,cappuccino,alcohol,cocktail,juice,liquor,water,whiskey
+Office:notebook,marker,cabinet,directory,conference,pencil,stapler,shredder,typewriter,workstation,briefcase
+Health:ambulance,bandage,examination,hospital,massage,medicine,operation,pain,obesity,pregnancy,wheelchair,toothpaste,crutch
+Music:singer,guitar,keyboard,trumpet,saxophone,drums,clarinet,string,xylophone,piano,organ,balalaika,concert,flute,banjo
+Random:variety,signature,response,currency,leader,government,cigarette,tension,student,audience,chemistry,application,impression,strategy,homework
